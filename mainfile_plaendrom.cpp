@@ -20,6 +20,7 @@ int main()
          cout << " The number is a palindrome.";
      else
          cout << " The number is not a palindrome.";
+     // this is the program for palendrm in cpp
 
     return 0;
 }
